@@ -1692,7 +1692,7 @@ Pool Covers Area Style
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background-color: rgba(0, 0, 0, 0.65);
+  background-color: rgba(0, 0, 0, 0.35);
 }
 
 .pool-covers-item .pool-covers-content h3 a {
@@ -2611,7 +2611,7 @@ We are Area Style
   text-align: center;
   -webkit-box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
           box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
-  background-color: #ffffff;
+  background-color: #1569ae;
   padding: 50px;
   margin-bottom: 30px;
 }
@@ -2893,7 +2893,6 @@ Contact Info Area Style
 ======================================================*/
 .contact-info-bg {
   padding: 50px;
-  background-image: url(../../assets/img/contact-info-bg.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
